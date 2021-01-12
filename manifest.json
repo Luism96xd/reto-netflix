@@ -1,0 +1,21 @@
+{
+    "name": "Recreando Netflix",
+    "short_name": "Notflix",
+    "start_url": ".",
+    "background_color": "#000",
+    "theme_color": "#fe2572",
+    "orientation": "portrait",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/reto-netflix/images/logo-netflix.png",
+            "sizes": "55x80",
+            "type": "image/png"
+        },
+        {
+            "src": "/reto-netflix/images/favicon-50x50.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        }
+    ]
+}
