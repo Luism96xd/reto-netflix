@@ -1,6 +1,8 @@
 # Recreando Netflix
 
-**Diseñado con 💗 por [leonidasesteban.com](https://leonidasesteban.com/)**
+**Iniciativa del reto y Logo Diseñado por [leonidasesteban.com](https://leonidasesteban.com/)**
+
+Recreación de Netflix elaborada por [Luis Rivas](https://my-entertainment-place.blogspot.com/)
 
 ### Colores
 
